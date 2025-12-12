@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        1.5
-Release:        2
+Release:        3
 Group:          Development/Python
 Summary:        An implementation of time.monotonic() for Python 2 & < 3.3
 License:        ASLv2
